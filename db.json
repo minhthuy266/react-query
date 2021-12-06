@@ -32,13 +32,13 @@
   ],
   "users": [
     {
-      "id": "vishwas@example.com",
-      "channelId": "codevolution"
+      "id": "thuynm@example.com",
+      "channelId": "TNM"
     }
   ],
   "channels": [
     {
-      "id": "codevolution",
+      "id": "TNM",
       "courses": ["react", "vue", "angular"]
     }
   ],
